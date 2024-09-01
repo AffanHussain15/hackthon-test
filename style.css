@@ -1,0 +1,41 @@
+body{
+    margin: 0 auto;
+}
+
+
+#request-button-top{
+    border: black 1px solid;
+    border-radius: 10px;
+}
+
+.first-paragraph{
+    padding: 5% 0 0 4%;
+    width: 30%;
+}
+
+
+#first-image{
+    width: 800px;
+    height: auto;
+}
+
+
+#first-button{
+    background-color: black;
+    border: black solid 1px;
+    border-radius: 10px;
+}
+
+
+.company-logos{
+    width: 150px;
+}
+
+#first-card{
+    border: black solid 1px;
+    border-radius: 50px;
+    background-color: #f3f3f3;
+    margin: 100px 0 0 6%;
+    width: 35%;
+    height: 250px;
+}
